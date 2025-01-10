@@ -8,6 +8,6 @@ export default nextConfig;
 
 module.exports = {
   images: {
-    domains: ['i.annihil.us', 'rickandmortyapi.com'],
+    domains: ['i.annihil.us', 'rickandmortyapi.com','gateway.marvel.com'],
   },
 }
