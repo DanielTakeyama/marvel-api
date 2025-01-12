@@ -1,0 +1,9 @@
+{
+    "metadata":{
+        "title":"Marvel API Project",
+        "description": "Seja bem vindo ao meu projeto de API da Marvel!"
+    },
+    "placeholders":{
+        "searchBar":"O que você esta buscando ?"
+    }
+}
